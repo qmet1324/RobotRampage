@@ -53,8 +53,12 @@
     <UnityVersion>2020.3.19f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Constants.cs" />
     <Compile Include="Assets\Scripts\GunEquipper.cs" />
+    <Compile Include="Assets\Scripts\Constants.cs" />
+    <Compile Include="Assets\Scripts\Gun.cs" />
+    <Compile Include="Assets\Scripts\Pistol.cs" />
+    <Compile Include="Assets\Scripts\Shotgun.cs" />
+    <Compile Include="Assets\Scripts\AssaultRifle.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
