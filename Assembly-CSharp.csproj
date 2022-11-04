@@ -61,6 +61,7 @@
     <Compile Include="Assets\Scripts\AssaultRifle.cs" />
     <Compile Include="Assets\Scripts\GameUI.cs" />
     <Compile Include="Assets\Scripts\Ammo.cs" />
+    <Compile Include="Assets\Scripts\Robot.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
