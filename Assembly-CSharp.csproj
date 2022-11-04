@@ -60,6 +60,7 @@
     <Compile Include="Assets\Scripts\Shotgun.cs" />
     <Compile Include="Assets\Scripts\AssaultRifle.cs" />
     <Compile Include="Assets\Scripts\GameUI.cs" />
+    <Compile Include="Assets\Scripts\Ammo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
