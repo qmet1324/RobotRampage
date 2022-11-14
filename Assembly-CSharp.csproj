@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Missile.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Pickup.cs" />
+    <Compile Include="Assets\Scripts\PickupSpawn.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
