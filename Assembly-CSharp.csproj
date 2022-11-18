@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\Ammo.cs" />
     <Compile Include="Assets\Scripts\GameUI.cs" />
     <Compile Include="Assets\Scripts\Menu.cs" />
+    <Compile Include="Assets\Scripts\BackgroundMusic.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
